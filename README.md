@@ -1,4 +1,4 @@
-### Emoji JSON – emoji sprites for using in projects
+## Emoji JSON – emoji sprites for using in projects
 
 ![Image of Yaktocat](https://tgraph.io/file/b38c934a69199d8c9340f.png)
 
